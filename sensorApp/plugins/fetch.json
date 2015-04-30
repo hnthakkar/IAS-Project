@@ -1,0 +1,9 @@
+{
+    "com.tomvanenckevort.cordova.bluetoothserial": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/tomvanenckevort/BluetoothSerial.git",
+            "subdir": "."
+        }
+    }
+}
