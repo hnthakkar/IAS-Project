@@ -1,0 +1,10 @@
+{
+  "name": "App",
+  "version": "0.0.1",
+  "description": "App",
+  "dependencies": {
+    "mongoose": "^4.0.1",
+    "socket.io": "latest"
+  },
+  "author": "developer"
+}
