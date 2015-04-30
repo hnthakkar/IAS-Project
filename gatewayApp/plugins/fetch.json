@@ -1,0 +1,16 @@
+{
+    "com.tomvanenckevort.cordova.bluetoothserial": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/tomvanenckevort/BluetoothSerial.git",
+            "subdir": "."
+        }
+    },
+    "com.tlantic.plugins.socket": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Tlantic/cdv-socket-plugin.git",
+            "subdir": "."
+        }
+    }
+}
